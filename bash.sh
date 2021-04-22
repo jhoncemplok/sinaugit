@@ -1,1 +1,1 @@
-echo "add new line"
+echo "add new line" > index.html
